@@ -1,0 +1,29 @@
+li {
+    display: inline-block;
+    height: 30px;
+    color: blue;
+    margin-right: 30px;
+}
+
+ul {
+    background-color: green;
+}
+
+nav a {
+    background-color: aquamarine;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+#skip {
+    text-transform: uppercase;
+}
+
+.thumbnail {
+    border: 20px solid blue;
+    margin: 10px;
+    width: 200px;
+    display: block;
+}
